@@ -77,3 +77,7 @@ Therefore:
 $$T(n) = n + 2n\cdot\log_{13}(n)$$
 
 So, $T(n) ∈ \Theta(n \log n)$
+
+## Sources 
+
+Mergesort video where we solved a similar recurrence relation.
